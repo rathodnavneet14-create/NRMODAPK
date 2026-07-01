@@ -23,4 +23,11 @@
         "expirydate": "15-08-2027",
         "Allowoffline": false
     },
+
+{
+        "device_id": "ec13413957ec4edc",
+        "key": "NR-MOD_2",
+        "expirydate": "02-07-2026",
+        "Allowoffline": false
+    },
 ]
