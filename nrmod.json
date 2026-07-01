@@ -17,4 +17,10 @@
         "expirydate": "15-07-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "3116a55ae19a7f90",
+        "key": "NR-MOD-1",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
+    },
 ]
