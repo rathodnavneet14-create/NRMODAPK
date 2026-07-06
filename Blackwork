@@ -90,4 +90,10 @@
         "expirydate": "12-07-2025",
         "Allowoffline": false
     },
+{
+        "device_id": "03ac21dec7346f15",
+        "key": "NR-MOD-APK59",
+        "expirydate": "20-07-2026",
+        "Allowoffline": false
+    },
 ]
