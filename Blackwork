@@ -108,4 +108,16 @@
         "expirydate": "6-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "9893af4503885f2c",
+        "key": "NRMODAPK109",
+        "expirydate": "23-07-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "831191eb1a4aebf4",
+        "key": "NRMODAPK100",
+        "expirydate": "23-07-2026",
+        "Allowoffline": false
+    },
 ]
