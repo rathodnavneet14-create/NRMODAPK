@@ -22,5 +22,11 @@
         "key": "NRMOD21234",
         "expirydate": "15-09-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "bd3b7c6c73e14b77",
+        "key": "NRMOD234",
+        "expirydate": "9-07-2026",
+        "Allowoffline": false
     }
 ]
