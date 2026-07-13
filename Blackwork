@@ -120,4 +120,10 @@
         "expirydate": "23-07-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "bde95033a3cc9818",
+        "key": "NRMODAPK290",
+        "expirydate": "12-08-2026",
+        "Allowoffline": false
+    },
 ]
