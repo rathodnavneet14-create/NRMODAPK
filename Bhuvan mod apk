@@ -28,5 +28,11 @@
         "key": "NRMOD52934",
         "expirydate": "9-07-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "007197c8c0483ca5",
+        "key": "NRMOD5234",
+        "expirydate": "17-07-2026",
+        "Allowoffline": false
     }
 ]
