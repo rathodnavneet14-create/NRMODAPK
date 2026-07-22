@@ -132,4 +132,10 @@
         "expirydate": "4-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "065a81bad829588d",
+        "key": "NR",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
+    },
 ]
