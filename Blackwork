@@ -168,4 +168,10 @@
         "expirydate": "6-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "3d261b86181db22b",
+        "key": "NRMOD1664",
+        "expirydate": "6-08-2026",
+        "Allowoffline": false
+    },
 ]
