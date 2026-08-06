@@ -174,4 +174,10 @@
         "expirydate": "6-01-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "cab9729edd42abcc",
+        "key": "NRMOD3064",
+        "expirydate": "6-09-2026",
+        "Allowoffline": false
+    },
 ]
