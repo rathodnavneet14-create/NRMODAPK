@@ -180,4 +180,10 @@
         "expirydate": "6-09-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "0413d37613eac7ad",
+        "key": "NRMOD5064",
+        "expirydate": "22-08-2026",
+        "Allowoffline": false
+    },
 ]
