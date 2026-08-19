@@ -186,4 +186,10 @@
         "expirydate": "22-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "e707ef303cf98e17",
+        "key": "NRMODED5004",
+        "expirydate": "22-08-2026",
+        "Allowoffline": false
+    },
 ]
