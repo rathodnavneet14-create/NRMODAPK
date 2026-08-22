@@ -192,4 +192,10 @@
         "expirydate": "4-09-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "0413d37613eac7ad",
+        "key": "NRMODED1500",
+        "expirydate": "5-09-2026",
+        "Allowoffline": false
+    },
 ]
