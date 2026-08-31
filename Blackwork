@@ -216,5 +216,10 @@
         "expirydate": "7-09-2026",
         "Allowoffline": false
     },
-
+{
+        "device_id": "52e258bbdede3643",
+        "key": "NRMODED1122",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
 ]
